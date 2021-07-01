@@ -1,4 +1,4 @@
-# Hola, bienvenido 👋
+# Hola, que tal 👋 ? 
 
 Bienvenido a mi repositorio!
 Me llamo Emiliano y me dicen Emi (falta creatividad 😂), soy un front end developer que estudio para ser full stack pero que le gusto muchisimo la parte de front.

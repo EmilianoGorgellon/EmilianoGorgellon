@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hola, bienvenido 👋
 
-<!--
-**EmilianoGorgellon/EmilianoGorgellon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bienvenido a mi repositorio!
+Me llamo Emiliano y me dicen Emi (falta creatividad 😂), soy un front end developer que estudio para ser full stack pero que le gusto muchisimo la parte de front.
 
-Here are some ideas to get you started:
+[![banner](https://image.freepik.com/vector-gratis/desarrollador-web-trabaja-computadora-portatil-banner-horizontal-joven-programador-trabajo-ilustracion-colorida-estilo-plano_198278-423.jpg "asdas")](https://image.freepik.com/vector-gratis/desarrollador-web-trabaja-computadora-portatil-banner-horizontal-joven-programador-trabajo-ilustracion-colorida-estilo-plano_198278-423.jpg "asdas")
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Mis skills principales son:
+- HTML5
+- CSS3
+- JavaScript
+- React
+- NodeJS
+- Y armar tremendos cafes por la tarde.

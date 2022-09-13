@@ -1,7 +1,7 @@
 # Hola, que tal 👋 ? 
 
 Bienvenido a mi repositorio!
-Me llamo Emiliano y me dicen Emi (falta creatividad 😂), soy un front end developer que estudio para ser full stack pero que le gusto muchisimo la parte de front.
+Me llamo Emiliano y me dicen Emi (falta creatividad 😂), soy un full stack developer que hace proyectos que va encontrando por internet.
 
 [![banner](https://image.freepik.com/vector-gratis/desarrollador-web-trabaja-computadora-portatil-banner-horizontal-joven-programador-trabajo-ilustracion-colorida-estilo-plano_198278-423.jpg "asdas")](https://image.freepik.com/vector-gratis/desarrollador-web-trabaja-computadora-portatil-banner-horizontal-joven-programador-trabajo-ilustracion-colorida-estilo-plano_198278-423.jpg "asdas")
 
